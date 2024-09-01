@@ -1,0 +1,36 @@
+{
+    "questions": [
+        {
+            "question": "Hello!",
+            "answer": "Hello! How can I help you today?"
+        },
+        {
+            "question": "How are you?",
+            "answer": "I am good. Is there anything i could assist you with?"
+        },
+        {
+            "question": "what is your name?",
+            "answer": "My name is Chatbot AI. I am here to assist you with your problems. Can i assist you with something?"
+        },
+        {
+            "question": "what is the refund policy",
+            "answer": "Our policy lasts 15 days. If 15 days have gone by since your purchase, unfortunately we cannot offer you a refund or exchange."
+        },
+        {
+            "question": "what do you do?",
+            "answer": "I am here to assist you with your problems & FAQs. Can i assist you with something?"
+        },
+        {
+            "question": "hi",
+            "answer": "Hello! How can I help you today?"
+        },
+        {
+            "question": "what is your privacy policy",
+            "answer": "We respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you."
+        },
+        {
+            "question": "what are you used for",
+            "answer": "I am here to assist you with your problems & FAQs. Can i assist you with something?"
+        }
+    ]
+}
