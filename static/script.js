@@ -89,3 +89,10 @@ function darkMode() {
     }
 }
 
+function handleKeyPress(event) {
+    if (event.key === 'Enter') {
+        sendMessage();
+    }
+}
+
+document.getElementById('user_input').addEventListener('keypress', handleKeyPress);
